@@ -896,34 +896,34 @@
 2404:6800:4008:801::2001 gp6.googleusercontent.com #photos-ugc.l.googleusercontent.com
 
 ## GStatic Google 静态文件存储
-2404:6800:4008:803::2003 gstatic.com
-2404:6800:4012:1::2003 accounts.gstatic.com
-2401:3800:4001:14::1018 csi.gstatic.com #csi-china.l.google.com
-2401:3800:4001:14::100f fonts.gstatic.com
-2404:6800:4008:802::2003 maps.gstatic.com
-2401:3800:4001:14::101f ssl.gstatic.com
-2401:3800:4001:15::1018 www.gstatic.com
-2401:3800:4001:15::100f www.gstatic.cn
-2404:6800:4012:1::200e encrypted-tbn0.gstatic.com
-2404:6800:4012::200e encrypted-tbn1.gstatic.com
-2404:6800:4012::200e encrypted-tbn2.gstatic.com
-2404:6800:4008:801::200e encrypted-tbn3.gstatic.com
-2401:3800:4001:14::1017 g0.gstatic.com
-2401:3800:4001:16::100f g1.gstatic.com
-2401:3800:4001:10::1017 g2.gstatic.com
-2401:3800:4001:10::1017 g3.gstatic.com
-2404:6800:4008:802::200e mt0.gstatic.com
-2404:6800:4008:802::200e mt1.gstatic.com
-2404:6800:4012:1::200e mt2.gstatic.com
-2404:6800:4012::200e mt3.gstatic.com
-2404:6800:4008:801::200e mt4.gstatic.com
-2404:6800:4008:803::200e mt5.gstatic.com
-2404:6800:4008:800::200e mt6.gstatic.com
-2404:6800:4008:800::200e mt7.gstatic.com
-2404:6800:4008:801::2004 t0.gstatic.com
-2404:6800:4012:1::2004 t1.gstatic.com
-2404:6800:4012:1::2004 t2.gstatic.com
-2404:6800:4008:800::2004 t3.gstatic.com
+2404:6800:4008:c07::5e gstatic.com
+2404:6800:4008:c07::5e accounts.gstatic.com
+2404:6800:4005:805::200e csi.gstatic.com #csi-china.l.google.com
+2a00:1450:4017:809::2003 fonts.gstatic.com
+2404:6800:4008:c06::5e maps.gstatic.com
+2404:6800:4008:c07::5e ssl.gstatic.com
+2404:6800:4008:c07::5e www.gstatic.com
+2404:6800:4005:805::200e www.gstatic.cn
+2404:6800:4008:c02::64 encrypted-tbn0.gstatic.com
+2404:6800:4008:c06::8b encrypted-tbn1.gstatic.com
+2404:6800:4008:c05::8b encrypted-tbn2.gstatic.com
+2404:6800:4008:c03::65 encrypted-tbn3.gstatic.com
+2404:6800:4008:c06::5e g0.gstatic.com
+2404:6800:4008:c06::5e g1.gstatic.com
+2404:6800:4008:c06::5e g2.gstatic.com
+2404:6800:4008:c07::5e g3.gstatic.com
+2404:6800:4008:c07::64 mt0.gstatic.com
+2404:6800:4008:c00::8b mt1.gstatic.com
+2404:6800:4008:c04::8b mt2.gstatic.com
+2404:6800:4008:c04::8b mt3.gstatic.com
+2404:6800:4008:c03::65 mt4.gstatic.com
+2404:6800:4008:c04::64 mt5.gstatic.com
+2404:6800:4008:c04::71 mt6.gstatic.com
+2404:6800:4008:c03::64 mt7.gstatic.com
+2404:6800:4008:c06::6a t0.gstatic.com
+2404:6800:4008:c06::93 t1.gstatic.com
+2404:6800:4008:c06::6a t2.gstatic.com
+2404:6800:4008:c06::6a t3.gstatic.com
 #2404:6800:4005:80b::2003 p5-klu7rokygdnwu-mst6xj5a4c7xsmqz-424575-i1-v6exp3-v4.metric.gstatic.com
 #2404:6800:4005:80b::2003 p5-klu7rokygdnwu-mst6xj5a4c7xsmqz-424575-s1-v6exp3-v4.metric.gstatic.com
 
